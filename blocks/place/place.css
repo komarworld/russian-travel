@@ -35,7 +35,7 @@
     "image"
     "paragraph";
     grid-template-columns: minmax(288px, 1fr);
-    row-gap: 32px;;
+    row-gap: 32px;
     margin-bottom: 50px;
   }
 }
